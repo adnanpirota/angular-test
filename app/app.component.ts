@@ -13,7 +13,7 @@ import {Component} from 'angular2/core';
           {{ votes }}
         </div>
         <div class="label">
-          Points
+          Pika
         </div>
       </div>
     </div>
